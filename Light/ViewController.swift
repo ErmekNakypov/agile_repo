@@ -8,7 +8,10 @@
 import UIKit
 
 class ViewController: UIViewController {
-        
+    
+    //ыыыыыыыыы
+    
+    //bbbbbbbbbb
     var lightOn = true
 
     override func viewDidLoad() {
@@ -22,6 +25,7 @@ class ViewController: UIViewController {
     @IBAction func buttonPressed(_ sender: Any) {
         lightOn.toggle()
         updateUi()
+        //aaaaaaaaaaaa
     }
     
 }
